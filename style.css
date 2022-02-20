@@ -1,0 +1,6 @@
+body {
+  background-image: "bp.jpg";
+  background: radial-gradient(150px 40px at 195px bottom,#666, #222);
+  background-size: cover;
+  background-position: center;
+}
